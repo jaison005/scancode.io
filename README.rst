@@ -41,7 +41,6 @@ OR CONDITIONS OF ANY KIND, either express or implied. No content created from
 ScanCode.io should be considered or used as legal advice. Consult an Attorney
 for any legal advice.
 
-# hi
 .. |ci-tests| image:: https://github.com/nexB/scancode.io/actions/workflows/ci.yml/badge.svg?branch=main
     :target: https://github.com/nexB/scancode.io/actions/workflows/ci.yml
     :alt: CI Tests Status
